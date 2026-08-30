@@ -1,0 +1,4 @@
+title = "AirSense secret scanning"
+
+[extend]
+useDefault = true
